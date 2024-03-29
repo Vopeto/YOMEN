@@ -1,8 +1,8 @@
 module.exports = {
   keywords: ["mr beast", "pass"],
   comments: ["hello","let's be a friend","subs to subs ahaha"],
-  usernamegoogle: "username_google/email_google",
-  passwordgoogle: "password_google",
+  usernamegoogle: "username_google/enuae16@gmail.com",
+  passwordgoogle: "Diocaneladro22",
   trending: false, // set true if you want comment on trending videos or false if you want comment on search videos
   newVideos: false, // set true if you want comment on new videos or false if you want comment on top videos
   copycomment:true,  // set tru if you want copy comment from array or false if you want random comment
